@@ -12,6 +12,8 @@ The goal is not to copy every old chat forever. The goal is to help a user bring
 
 We are currently recruiting a **small first cohort (3–5 people)** for a Stranger Partner Recovery Test.
 
+**Pilot 1 recruitment:** https://github.com/v6005444-design/yijian-continuity-releases/issues/1
+
 You may be a good fit if:
 
 - you have used ChatGPT, Claude, Gemini, Character.AI, Replika, or another AI system over time;
@@ -35,7 +37,7 @@ The most important question is not “Did the software run?” It is:
 
 > **After restore, do you recognize this as meaningfully continuous with the AI partner or long-running AI relationship you had before?**
 
-If you want to participate, see the open Pilot 1 recruitment issue in this repository. Please do not post private chat history or Partner Bundles publicly.
+Please do not post private chat history or Partner Bundles publicly.
 
 ## What the Technical Beta is designed to do
 
