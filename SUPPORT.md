@@ -8,10 +8,12 @@ Check:
 
 1. you downloaded the current release from this repository's official Releases page;
 2. the ZIP SHA-256 matches the published `SHA256SUMS.txt`;
-3. you followed the current Quick Start;
+3. you followed the Quick Start included with the release;
 4. you know which step failed: launch / intake / review / export / restore / verify.
 
-If no binary release is visible yet, the Technical Public Beta has not been publicly released.
+Current Technical Beta release:
+
+https://github.com/v6005444-design/yijian-continuity-releases/releases/tag/v0.1.0-beta
 
 ## Safe information to include
 
@@ -30,6 +32,8 @@ If no binary release is visible yet, the Technical Public Beta has not been publ
 - personal local file paths;
 - information about third parties that they did not consent to publish.
 
+Use GitHub Private Vulnerability Reporting for security vulnerabilities rather than posting exploit details publicly.
+
 ## Continuity feedback
 
 For Pilot feedback, the most useful high-level answers are:
@@ -38,5 +42,6 @@ For Pilot feedback, the most useful high-level answers are:
 - Did the restored system feel like the same partner, partly the same, or not the same?
 - What important element was missing or wrong?
 - What was preserved well?
+- Would you trust this workflow enough to use it again before switching models or platforms?
 
 Human continuity judgment is distinct from technical verification.
