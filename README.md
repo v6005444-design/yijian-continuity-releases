@@ -8,6 +8,18 @@ Yijian Continuity is being built for people who already have an AI assistant, co
 
 The goal is not to copy every old chat forever. The goal is to help a user bring forward the important identity, relationship, preferences, permissions, cancellations, provenance, and unresolved unknowns that make a long-running AI relationship or workflow recognizable and usable.
 
+## Pilot 1 fast path — 5 steps
+
+If you already have a long-running AI relationship or workflow and use Windows:
+
+1. Read [Pilot 1 Quick Start](PILOT_1_QUICKSTART.md).
+2. Download the current Technical Beta from the official Release page.
+3. Bring in evidence from your existing AI relationship/workflow.
+4. Complete export -> restore -> verify.
+5. Submit a **high-level continuity verdict only** using the `Pilot 1 continuity feedback` issue template.
+
+You do not need to publish your chats, memories, Partner Bundle, local paths, credentials, or private relationship content.
+
 ## Pilot 1 — we are looking for the first real testers
 
 We are currently recruiting a **small first cohort (3–5 people)** for a Stranger Partner Recovery Test.
