@@ -1,12 +1,12 @@
 # Security — Yijian Continuity Technical Public Beta
 
-**Status:** Public distribution channel initialized. No public binary release has been published yet.
+**Status:** Windows Technical Public Beta v0.1.0 is publicly available as a pre-release.
 
 ## Sensitive vulnerability reports
 
 Do **not** post credentials, private Partner Bundles, full chat exports, relationship/memory content, exploit details, or local personal paths in a public issue.
 
-Before the first public binary release, this repository must have an explicit private vulnerability-reporting channel enabled. Until that channel is confirmed, use public issues only for non-sensitive security questions or to request a private contact path without disclosing vulnerability details.
+Use GitHub Private Vulnerability Reporting for sensitive security vulnerabilities. Use public issues only for non-sensitive security questions and never disclose exploit details, credentials, Partner Bundles, private histories, or personal paths publicly.
 
 ## Safe initial report fields
 
