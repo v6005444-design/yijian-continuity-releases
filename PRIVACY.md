@@ -1,6 +1,6 @@
 # Privacy — Yijian Continuity Technical Public Beta
 
-**Status:** Public distribution channel initialized. No public binary release has been published yet.
+**Status:** Windows Technical Public Beta v0.1.0 is publicly available as a pre-release. This privacy notice applies to the current Technical Beta unless a later release states otherwise.
 
 This notice describes the intended behavior of the current Windows Technical Public Beta candidate. Material privacy changes should be disclosed before activation rather than silently assumed.
 
